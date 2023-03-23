@@ -6,6 +6,21 @@
 .text{
     color: red;
 }
+.text-1{
+    font-size: 14px;
+}
+.title{
+    font-size: 18px;
+}
+.info{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.gold-btn{
+    background-color: goldenrod;
+}
+
 .img-1{
     margin-left: 28px;
 }
@@ -14,7 +29,4 @@
 }
 .cursor{
     cursor: pointer;
-}
-.offer-container{
-    width: 70%;
 }
